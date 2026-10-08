@@ -1,0 +1,15 @@
+# General ML / data
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Module 4 - Classical ML
+xgboost
+lightgbm
+
+# Module 5 - Deep learning
+torch
+
+# Notebooks
+jupyter
